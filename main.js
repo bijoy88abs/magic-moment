@@ -750,6 +750,7 @@ __webpack_require__.r(__webpack_exports__);
 
 const routes = [
     { path: '', component: _components_home_home_component__WEBPACK_IMPORTED_MODULE_2__["HomeComponent"] },
+    { path: 'magic-moment', component: _components_home_home_component__WEBPACK_IMPORTED_MODULE_2__["HomeComponent"] },
 ];
 class AppRoutingModule {
 }
