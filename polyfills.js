@@ -7,7 +7,7 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\Prathiksha\projects\magic-moment-ng\src\polyfills.ts */"hN/g");
+module.exports = __webpack_require__(/*! C:\Users\PC\projects\magic-moment-code\magic-moment-ng\src\polyfills.ts */"hN/g");
 
 
 /***/ }),
